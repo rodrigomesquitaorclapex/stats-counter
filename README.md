@@ -25,5 +25,5 @@ order by id
 ![Preview](asset/plugin_preview.png)
 
 ## Demo ##
-[https://bit.ly/dashboard-cards](https://bit.ly/stats-counter)
+[https://bit.ly/stats-counter](https://bit.ly/stats-counter)
 
