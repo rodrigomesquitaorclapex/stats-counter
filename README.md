@@ -19,10 +19,10 @@ union
 select 4 as id, 800 as dc_value ,'Average Visit' as dc_text, 'fa-clock-o' as icon_class  from dual
 order by id
 ```
- ![Preview](assets/configuration.jpg)
+ ![Preview](asset/configuration.jpg)
 
 ## Preview ##
-![Preview](assets/plugin_preview.png)
+![Preview](asset/plugin_preview.png)
 
 ## Demo ##
 [https://bit.ly/dashboard-cards](https://bit.ly/stats-counter)
