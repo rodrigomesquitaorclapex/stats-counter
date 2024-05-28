@@ -1,11 +1,11 @@
 {
-  "name" : "Dashboard Cards",
+  "name" : "Stats Counter",
   "version" : "1.0",
-  "description" : "Create nice cards with this template component plugin.",
-  "keywords" : ["APEX", "TEMPLATE_COMPONENT", "CARDS"],
-  "homepage" : "https://github.com/rodrigomesquitaorclapex/dashboard-cards",
+  "description" : "Create stats with this template component plugin.",
+  "keywords" : ["APEX", "TEMPLATE_COMPONENT", "STATS"],
+  "homepage" : "https://github.com/rodrigomesquitaorclapex/stats-counter",
   "bugs" : {
-    "url" : "https://github.com/rodrigomesquitaorclapex/dashboard-cards/issues",
+    "url" : "https://github.com/rodrigomesquitaorclapex/stats-counter/issues",
     "email" : "rodrigomesquita.ti@gmail.com"
   },
   "license" : "MIT",
@@ -17,17 +17,17 @@
   },
   "repository" : {
     "type" : "git",
-    "url" : "https://github.com/rodrigomesquitaorclapex/dashboard-cards.git"
+    "url" : "https://github.com/rodrigomesquitaorclapex/stats-counter.git"
   },
   "oracle" : {
     "versions" : ["12.1.0.1","12.2.0.1","18.0.0.0","19.0.0.0","21.0.0.0"],
     "apex" : {
-      "versions" : ["23.1","23.2"],
+      "versions" : ["23.2"],
       "plugin" : {
-        "internalName" : "COM.RODRIGOMESQUITA.DASHBOARD_CARDS",
+        "internalName" : "COM.RODRIGOMESQUITA.STATSCOUNTER",
         "type" : "template component",
-        "demo" : "https://bit.ly/dashboard-cards",
-        "previewImage" : "https://raw.githubusercontent.com/rodrigomesquitaorclapex/dashboard-cards/main/assets/plugin_preview.jpg"
+        "demo" : "https://bit.ly/stats-counter",
+        "previewImage" : "https://raw.githubusercontent.com/rodrigomesquitaorclapex/stats-counter/main/asset/plugin_preview.jpg"
       }
     }
   }
