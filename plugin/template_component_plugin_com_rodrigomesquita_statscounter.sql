@@ -33,7 +33,7 @@ prompt APPLICATION 167425 - Stats Counter Plugin
 -- Application Export:
 --   Application:     167425
 --   Name:            Stats Counter Plugin
---   Date and Time:   17:11 Tuesday May 28, 2024
+--   Date and Time:   17:34 Tuesday May 28, 2024
 --   Exported By:     RODRIGOMESQUITA.TI@GMAIL.COM
 --   Flashback:       0
 --   Export Type:     Component Export
@@ -86,10 +86,11 @@ wwv_flow_imp_shared.create_plugin(
 '  Author: <code>Rodrigo Mesquita</code><br/>',
 '  E-mail: <code>rodrigomesquita.ti@gmail.com</code><br/>',
 '  X: <code>@mesquitarod</code><br/>',
-'  Plugin home page: <code>https://github.com/rodrigomesquitaorclapex/dashboard-cards</code>',
+'  Plugin home page: <code>https://github.com/rodrigomesquitaorclapex/stats-counter</code>',
 '  License: Licensed under the MIT (LICENSE.txt) license.',
 '</p>'))
 ,p_version_identifier=>'1.0'
+,p_about_url=>'https://apexblog.dev/oracle-apex-template-component-plugin-stats-counter'
 ,p_files_version=>51
 );
 wwv_flow_imp_shared.create_plugin_attribute(
